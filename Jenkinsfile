@@ -20,7 +20,7 @@ podTemplate(
                 ),
                 containerTemplate(
                         name: 'ibmcloud',
-                        image: 'garagecatalyst/ibmcloud-dev:1.0.5',
+                        image: 'garagecatalyst/ibmcloud-dev:1.0.7',
                         ttyEnabled: true,
                         command: '/bin/bash',
                         envVars: [
