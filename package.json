@@ -1,5 +1,5 @@
 {
-  "name": "template-spring-boot",
+  "name": "cat-spring-boot",
   "version": "0.1.0",
   "description": "Spring Boot application",
   "main": "index.js",
